@@ -173,7 +173,6 @@ PLATFORMS
   x86-mingw32
 
 DEPENDENCIES
-  bundler (~> 2.0.1)
   byebug
   capybara (~> 2.13)
   coffee-rails (~> 4.2)
